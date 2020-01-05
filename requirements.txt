@@ -1,1 +1,3 @@
 -e git://github.com/joram/ml-snek.git#egg=ml-snek
+bottle
+pip==19.3.1
