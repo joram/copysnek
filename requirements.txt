@@ -1,0 +1,1 @@
+-e git://github.com/joram/ml-snek.git#egg=mlsnek
